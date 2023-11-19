@@ -1,4 +1,4 @@
-# Beyond Closet
+# Full-Stack Web Application for Fashion Recommendation 
 
 Beyond Closet is an awesome web application to get the color recommendation based on uploaded images and the color wheel theorem.
 
